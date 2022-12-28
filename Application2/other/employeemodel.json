@@ -1,0 +1,24 @@
+{
+    "data": [
+          { "employeenid": 1, "employeename": "Daisy Deborah", "assemblyscore": 2, "cppscore": 4, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 2, "employeename": "Isabel Stella", "assemblyscore": 4, "cppscore": 5, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 3, "employeename": "Debra Beverly", "assemblyscore": 5, "cppscore": 2, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 4, "employeename": "Vera Angela", "assemblyscore": 1, "cppscore": 3, "javascore": 2, "qmlscore": 5,  "openglscore": 3 }
+        , { "employeenid": 5, "employeename": "Lucy Lauren", "assemblyscore": 4, "cppscore": 1, "javascore": 2, "qmlscore": 5,  "openglscore": 3 }
+        , { "employeenid": 6, "employeename": "Janet Loretta", "assemblyscore": 3, "cppscore": 3, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 7, "employeename": "Tracey Sabrina", "assemblyscore": 3, "cppscore": 5, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 8, "employeename": "Melody Chrysta", "assemblyscore": 5, "cppscore": 2, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 9, "employeename": "Christina Vicki", "assemblyscore": 1, "cppscore": 2, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 10, "employeename": "Molly Alison", "assemblyscore": 3, "cppscore": 1, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 11, "employeename": "Miranda Stephanie", "assemblyscore": 2, "cppscore": 3, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 12, "employeename": "Leona Katrina", "assemblyscore": 2, "cppscore": 2, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 13, "employeename": "Mila Gabriela", "assemblyscore": 5, "cppscore": 3, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 14, "employeename": "Williams Harris", "assemblyscore": 5, "cppscore": 1, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 15, "employeename": "Thomas Robinson", "assemblyscore": 3, "cppscore": 3, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 16, "employeename": "Scott Nelson", "assemblyscore": 2, "cppscore": 5, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 17, "employeename": "Mitchell Morgan", "assemblyscore": 2, "cppscore": 3, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 18, "employeename": "Davis Howard", "assemblyscore": 2, "cppscore": 5, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 19, "employeename": "Miller Martin", "assemblyscore": 2, "cppscore": 4, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+        , { "employeenid": 20, "employeename": "Smith Anderson", "assemblyscore": 2, "cppscore": 2, "javascore": 2, "qmlscore": 5, "openglscore": 3 }
+    ]
+}
